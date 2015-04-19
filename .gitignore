@@ -1,0 +1,16 @@
+# Ignore file
+
+# Java Files
+target/
+*.jar
+*.war
+*.ear
+*.class
+hs_err_pid*
+
+# Eclipse Files
+.settings/
+
+# Temporary files
+*~
+
